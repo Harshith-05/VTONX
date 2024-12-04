@@ -1,7 +1,26 @@
-# 💻 Building DeFi on TON | Episode 02
+# 💻 3D Virtual Trial On  | VTON
 **First Smart Contract on Tact, Build, Deploy on Ton Testnet Chain**
 
-Welcome to the second episode of the "Building DeFi on TON" series! In this tutorial, we cover the basics of writing your first smart contract in Tact, building it, and deploying it on the TON testnet chain.
+VTONX, demonstrates a comprehensive e-commerce solution integrating 3D virtual clothing try-on with the ability to purchase items using TONCoins. Here is an analysis of the repository's key features and technical aspects:
 
-## 📺 YouTube Video
-Watch the full video tutorial here: [Building DeFi on TON | 02](https://www.youtube.com/watch?v=J7ZF3KWxX_8)
+Key Features
+3D Virtual Try-On:
+
+Leverages TONX API for generating realistic 3D avatars and applying clothing dynamically.
+Real-time rendering ensures users can visualize outfits effectively.
+Blockchain Integration:
+
+Supports payments via TONCoins, adding a unique crypto-commerce feature.
+Ensures secure transactions with decentralized currency options.
+Responsive Design:
+
+Optimized for various devices, providing an accessible experience.
+Patent Documentation:
+
+Includes proof of a patent granted by the Government of India, underlining its innovation.
+
+
+Setup Instructions
+To run the application:
+
+Clone the repository: git clone https://github.com/Harshith-05/VTONX.git.
